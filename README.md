@@ -14,7 +14,7 @@ When testing systems, organizing archives, or managing digital forensics, you of
 
 ## The Script
 
-Save the following code as a `.ps1` file (e.g., `powershellfudats.ps1`). 
+following code as a `powershellfudats.ps1` file
 
 ```powershell
 $filePath = "File_Path"
